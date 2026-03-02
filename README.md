@@ -2,6 +2,10 @@
 
 A web application for managing healthcare appointments, doctors, patients, and departments. Built with **Flask**, **SQLAlchemy**, **SQLite** and **Bootstrap**.
 
+
+https://github.com/user-attachments/assets/f95af005-e0d6-4d5a-a4f5-2a63eaf31dc8
+
+
 ## Features
 - User authentication (**Admin**, **Doctor**, **Patient**)
 - Admin dashboard for managing users, departments, and appointments
